@@ -23,7 +23,7 @@ WELCOME TO MY GITHUB!!! 🧔♂️ </br>
 + 📜 2021 ~ 2022 SSAFY 7th (ing)
 
 ### CONTACT ME
-+ beberiche's blog (SSAFY) <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
++ beberiche's blog (SSAFY) <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
 + beberiche's email : woaol@naver.com
 
 ### MY Tech Stack 
