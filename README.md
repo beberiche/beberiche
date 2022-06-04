@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beberiche)](https://solved.ac/profile/beberiche)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche">
+<div><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche"></div>
