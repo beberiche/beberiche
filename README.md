@@ -38,5 +38,4 @@ WELCOME TO MY GITHUB!!! 🧔♂️ </br>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 
 ### ALGORITHMS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beberiche)](https://solved.ac/profile/beberiche)
 <div><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche"></div>
