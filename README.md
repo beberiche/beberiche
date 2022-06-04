@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Skills
-</br>
-<img src="https://img.shields.io/badge/Java-179DE3?style=flat-square&logo=Java&logoColor=179DE3"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beberiche)](https://github.com/anuraghazra/github-readme-stats)
