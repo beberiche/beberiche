@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 👨‍💻 Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+</br>
+<img src="https://img.shields.io/badge/Java-179DE3?style=flat-square&logo=Java&logoColor=179DE3"/>
