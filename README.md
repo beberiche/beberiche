@@ -33,7 +33,7 @@ WELCOME TO MY GITHUB!!! 🧔♂️ </br>
 
 ### RATED
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beberiche)](https://github.com/beberiche/beberiche)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=9cd767ca-7d8e-48df-a546-652c981d21c7)](https://wakatime.com/@9cd767ca-7d8e-48df-a546-652c981d21c7)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beberiche)](https://wakatime.com/@9cd767ca-7d8e-48df-a546-652c981d21c7)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche)
 
 ### PROJECT
