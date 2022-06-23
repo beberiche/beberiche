@@ -1,30 +1,12 @@
-<!--
-**beberiche/beberiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 😁
-WELCOME TO MY GITHUB!!! 🧔♂️ </br>
-안녕하세요 개발자 김종현 입니다 ✋✋✋ </br>
-프론트를 희망하며, 좀 더 멋진 개발자가 되고자  </br>
-현재 열심히 공부중에 있습니다. </br>
-
 ### WHERE AM I
 + 👨‍🎓 ~ 2020 사회복지학과 졸업
 + 📜 2021 ~ 2022 SSAFY 7th (ing)
 
 ### CONTACT ME
-+ beberiche's blog (Velog) <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
-+ beberiche's blog (SSAFY) <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
++ beberiche's blog (Front-end) <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
++ beberiche's blog (Back-end) <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
++ beberiche's blog (Algolithm-skills) <a href="https://beberiche.notion.site/bd939a0535ae42818a520632ceaf88f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
++ beberiche's blog (Coding-test-solution) <a href="https://github.com/beberiche/Algorithms"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a> 
 + beberiche's email : woaol@naver.com
 
 ### MY Tech Stack 
