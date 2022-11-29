@@ -1,6 +1,6 @@
 ### WHERE AM I
 + 👨‍🎓 ~ 2020 사회복지학과 졸업
-+ 📜 2021 ~ 2022 SSAFY 7th (ing)
++ 📜 2021 ~ 2022 SSAFY 7th
 
 ### CONTACT ME
 + beberiche's blog `Front-end` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
