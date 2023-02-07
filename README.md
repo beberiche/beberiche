@@ -3,10 +3,9 @@
 <!-- + 📜 2021 ~ 2022 SSAFY 7th -->
 
 ### CONTACT ME
-+ beberiche's blog `Front-end` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
-+ beberiche's blog `Back-end` <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
-+ beberiche's blog `Algolithm-skills` <a href="https://beberiche.notion.site/bd939a0535ae42818a520632ceaf88f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
-+ beberiche's blog `Coding-test-solution` <a href="https://github.com/beberiche/Algorithms"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a> 
++ beberiche's `blog` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
+<!-- + beberiche's blog `Back-end` <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> -->
++ beberiche's `Algolithms` <a href="https://velog.io/@beberiche/series/BOJ"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
 + beberiche's email : woaol@naver.com
 
 <!-- ### MY Tech Stack `Front-end`
