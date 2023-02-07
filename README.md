@@ -4,9 +4,9 @@
 
 ### CONTACT ME
 + beberiche's `blog` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
-<!-- + beberiche's blog `Back-end` <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> -->
 + beberiche's `Algolithms` <a href="https://velog.io/@beberiche/series/BOJ"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
 + beberiche's email : woaol@naver.com
+<!-- + beberiche's blog `Back-end` <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> -->
 
 <!-- ### MY Tech Stack `Front-end`
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
