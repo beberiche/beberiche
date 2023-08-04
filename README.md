@@ -6,6 +6,10 @@
 + beberiche's `blog` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
 + beberiche's `TIL` <a href="https://www.notion.so/beberiche/TIL-e223d42439b44dc99673df6771049ceb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
 + beberiche's `email` : woaol@naver.com
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche&tag=DDNS)](https://github.com/eungyeole/velog-readme-stats)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche)](https://github.com/eungyeole/velog-readme-stats)
+
 <!-- + beberiche's `Algolithms` <a href="https://velog.io/@beberiche/series/BOJ"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a> -->
 
 <!-- + beberiche's blog `Back-end` <a href="https://beberiche.notion.site/SSAFY-bc173c83a9d444038f5185ef452e2f19"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> -->
