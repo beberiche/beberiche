@@ -7,8 +7,8 @@
 + beberiche's `TIL` <a href="https://www.notion.so/beberiche/TIL-e223d42439b44dc99673df6771049ceb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
 + beberiche's `email` : woaol@naver.com
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche)](https://github.com/eungyeole/velog-readme-stats)  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche&tag=DDNS)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche)](https://velog.io/@beberiche/npmpackage)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche&tag=DDNS)](https://velog.io/@beberiche/%EB%8F%88%EC%9D%B4-%EC%97%86%EB%8A%94-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%80-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%ED%96%88%EB%8B%A4)
 
 <!-- + beberiche's `Algolithms` <a href="https://velog.io/@beberiche/series/BOJ"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a> -->
 
