@@ -4,7 +4,7 @@
 
 ### CONTACT ME
 + beberiche's `blog` <a href="https://velog.io/@beberiche"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
-+ beberiche's `TIL` <a href="https://www.notion.so/beberiche/TIL-e223d42439b44dc99673df6771049ceb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
++ beberiche's `TIL` <a href="https://beberiche.notion.site/TIL-e223d42439b44dc99673df6771049ceb?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
 + beberiche's `email` : woaol@naver.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
