@@ -11,7 +11,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
 ## 🏆 Certificates
-+ 삼성 S/W 역량 테스트 Level B (Pro)
++ 삼성 S/W 역량 테스트 Level B
 + 현대 Softeer 역량 진단 (HSAT lv3)
 + SQLD
 
