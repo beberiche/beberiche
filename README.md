@@ -10,9 +10,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
+## Certificates
++ 삼성 S/W 역량 테스트 Level B (Pro)
++ 현대 Softeer 역량 진단 (HSAT lv3)
++ SQLD
 
-
-## Blog
+## Blog Post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche&slug=돈이-없는-취준생은-노트북에-배포를-했다)](https://velog.io/@beberiche/%EB%8F%88%EC%9D%B4-%EC%97%86%EB%8A%94-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%80-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%ED%96%88%EB%8B%A4)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beberiche&slug=npmpackage)](https://velog.io/@beberiche/npmpackage)
