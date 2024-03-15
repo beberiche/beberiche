@@ -11,7 +11,7 @@
 
 ## Activity & Awards 🎖️
 + **Samsung Electronics DX** - S/W 역량 테스트 Level B (2024.03)
-+ **Samsung Electronics DX** - Summer S/W Algorithms 역량 강화 특강 (2024.02 ~ 03)
++ **Samsung Electronics DX** - S/W Algorithms 역량 강화 특강 (2024.02 ~ 03)
 + **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
 + **K-Data** - SQL Developer (2023.04)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
