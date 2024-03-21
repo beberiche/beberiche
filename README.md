@@ -2,7 +2,7 @@
 + 👨‍🎓 ~ 2020 사회복지학과 졸업 -->
 <!-- + 📜 2021 ~ 2022 SSAFY 7th -->
 
-# Bell (JongHyeon Kim)
+# JongHyeon Kim (Bell)
 
 <a href="woaol@naver.com"><img src="https://img.shields.io/badge/woaol@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a> 
 <a href="whdgus@gmail.com"><img src="https://img.shields.io/badge/whdgus269@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a> 
