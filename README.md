@@ -15,8 +15,6 @@
 + **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
 + **K-Data** - SQL Developer (2023.04)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
-</br>
-
 + **Agabang Little-angel** - 유아의류 온라인 쇼핑몰 매니저 (2020.06~2021.12)
 
 ## Tech Stack 👨‍🔧
