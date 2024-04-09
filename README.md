@@ -2,10 +2,10 @@
 + 👨‍🎓 ~ 2020 사회복지학과 졸업 -->
 <!-- + 📜 2021 ~ 2022 SSAFY 7th -->
 
-# JongHyeon Kim (Bell)
-
+# JongHyeon Kim (Bell) 
 <a><img src="https://img.shields.io/badge/woaol@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a> 
 <a><img src="https://img.shields.io/badge/whdgus269@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
