@@ -18,7 +18,7 @@
 + **Agabang Little Angel** - 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
 ## Project
-+ Validator module - 개인 정보 기반 유효성 모듈 (2023.07 ~ 08)
++ Validator module - 개인 정보 기반 유효성 모듈 (2023.07 ~ 진행중)
   - [repo](https://github.com/beberiche/npm-validator-module), [npm](https://www.npmjs.com/package/@beberiche/validator)
 + Chili Source - 지라 기반 협업툴 솔루션 (2022.10 ~ 11)
   - [repo](https://github.com/beberiche/Chili-source-m)
