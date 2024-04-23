@@ -17,12 +17,14 @@
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 + **Agabang Little Angel** - 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
-## Project 
-+ Chili Source - 지라 기반 협업툴 솔루션
+## Project
++ Validator module - 개인 정보 기반 유효성 모듈 (2023.07 ~ 08)
+  - [repo](https://github.com/beberiche/npm-validator-module), [npm](https://www.npmjs.com/package/@beberiche/validator)
++ Chili Source - 지라 기반 협업툴 솔루션 (2022.10 ~ 11)
   - [repo](https://github.com/beberiche/Chili-source-m)
-+ 전.우.치 (전국 우리 지역잔치) - 게이피케이션이 적용된 축제 안내 서비스
++ 전.우.치 (전국 우리 지역잔치) - 게이피케이션이 적용된 축제 안내 서비스 (2022.08 ~ 10)
   - [repo](https://github.com/beberiche/Jeon-Woo-Chi), [link](https://jeonwoochi-m.shop)
-+ HelloWorld - 프리토킹을 위한 랜덤매칭 서비스
++ HelloWorld - 프리토킹을 위한 랜덤매칭 서비스 (2022.07 ~ 08)
   - [repo](https://github.com/beberiche/HelloWorld)
 
 ## Tech Stack 👨‍🔧
