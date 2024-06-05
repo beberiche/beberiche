@@ -24,7 +24,7 @@
 + Chili Source - 지라 기반 협업툴 솔루션 (2022.10 ~ 11)
   - [repo](https://github.com/beberiche/Chili-source-m)
 + 전.우.치 (전국 우리 지역잔치) - 게이피케이션이 적용된 축제 안내 서비스 (2022.08 ~ 10)
-  - [repo](https://github.com/beberiche/jeonwoochi-m), [link](https://jeonwoochi-m.shop)
+  - [repo](https://github.com/beberiche/Jeon-Woo-Chi), [link](https://jeonwoochi-m.shop)
 + HelloWorld - 프리토킹을 위한 랜덤매칭 서비스 (2022.07 ~ 08)
   - [repo](https://github.com/beberiche/HelloWorld)
 
