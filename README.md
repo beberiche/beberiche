@@ -16,7 +16,7 @@
 + **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
 + **K-Data** - SQL Developer (2023.04)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
-+ **Agabang Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
++ **Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
 ## Project
 + Validator module - 개인 정보 기반 유효성 모듈 (2023.07)
