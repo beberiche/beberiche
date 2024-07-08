@@ -18,6 +18,11 @@
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 + **Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
+## Opensource Projects
++ Contributor - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
++ Contributor - [toss/es-hangul](https://github.com/toss/es-hangul)
++ Contributor - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
+
 ## Project
 + Validator module - 개인 정보 기반 유효성 모듈 (2023.07)
   - [repo](https://github.com/beberiche/npm-validator-module), [npm](https://www.npmjs.com/package/@beberiche/validator)
