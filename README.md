@@ -25,6 +25,8 @@
 + Contributor - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
 
 ## Project
++ k8s Infra test - `back-end` 운영환경에 따른 동적 인프라 구성 (2024.06)
+  - [repo](https://github.com/beberiche/k8s-infra-test)
 + Validator module - 개인 정보 기반 유효성 모듈 (2023.07)
   - [repo](https://github.com/beberiche/npm-validator-module), [npm](https://www.npmjs.com/package/@beberiche/validator)
 + Chili Source - 지라 기반 협업툴 솔루션 (2022.10 ~ 11)
