@@ -20,6 +20,7 @@
 + **Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
 ## Opensource Projects
++ Contributor - [yorkie-team/codepair](https://github.com/yorkie-team/codepair)
 + Contributor - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
 + Contributor - [toss/es-hangul](https://github.com/toss/es-hangul)
 + Contributor - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
