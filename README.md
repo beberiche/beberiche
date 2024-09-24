@@ -9,7 +9,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
 ## Activity & Awards 🎖️
-+ **KakaoBank** - 카카오뱅크 종합정보개발 시스템 엔지니어 인턴 (2024.09 ~ 진행중)
++ **KakaoBank** - 카카오뱅크 시스템 엔지니어 인턴 (2024.09 ~ 진행중)
 + **OSSCA** - 오픈소스 컨트리뷰션 아카데미 (2024.07 ~ 진행중)
 + **HRD Korea** - 정보처리기사 (2024.06)
 + **Samsung Electronics DX** - S/W 역량 테스트 Level B (2024.03)
