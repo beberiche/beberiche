@@ -25,7 +25,7 @@
 + Contributor - [toss/es-hangul](https://github.com/toss/es-hangul)
 + Contributor - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
 
-## Project
+<!-- ## Project
 + k8s Infra test - `back-end` 운영환경에 따른 동적 인프라 구성 (2024.06)
   - [repo](https://github.com/beberiche/k8s-infra-test)
 + Validator module - 개인 정보 기반 유효성 모듈 (2023.07)
@@ -36,6 +36,7 @@
   - [repo](https://github.com/beberiche/Jeon-Woo-Chi), [link](https://jeonwoochi-m.shop)
 + HelloWorld - 프리토킹을 위한 랜덤매칭 서비스 (2022.07 ~ 08)
   - [repo](https://github.com/beberiche/HelloWorld)
+-->
 
 ## Tech Stack 👨‍🔧
 ##### Main
