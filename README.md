@@ -25,7 +25,7 @@
 
 
 ## Opensource Projects
-+ Contributor - [yorkie-team/codepair](https://github.com/yorkie-team/codepair)
++ Contributor - [yorkie-team](https://github.com/yorkie-team)
 + Contributor - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
 + Contributor - [toss/es-hangul](https://github.com/toss/es-hangul)
 + Contributor - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
