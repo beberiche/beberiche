@@ -8,17 +8,21 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
-## Activity & Awards 🎖️
+## Activity 
 + **KakaoBank** - 카카오뱅크 종합정보개발팀 시스템 엔지니어 (2024.12 ~ )
 + **KakaoBank** - 카카오뱅크 시스템 엔지니어 인턴 (2024.09 ~ 2024.12)
 + **OSSCA** - 오픈소스 컨트리뷰션 아카데미 (2024.07 ~ 2024.12)
-+ **HRD Korea** - 정보처리기사 (2024.06)
-+ **Samsung Electronics DX** - S/W 역량 테스트 Level B (2024.03)
 + **Samsung Electronics DX** - S/W Algorithms 역량 강화 특강 (2024.02 ~ 03)
-+ **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
-+ **K-Data** - SQL Developer (2023.04)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 + **Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
+
+## Awards & Certificates🎖️
++ **Yorkie** - 한국IT비즈니스진흥협회장상 (2024.12)
++ **HRD Korea** - 정보처리기사 (2024.06)
++ **Samsung Electronics DX** - S/W 역량 테스트 Level B (2024.03)
++ **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
++ **K-Data** - SQL Developer (2023.04)
+
 
 ## Opensource Projects
 + Contributor - [yorkie-team/codepair](https://github.com/yorkie-team/codepair)
