@@ -9,7 +9,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
 
 ## Activity 
-+ **KakaoBank** - 정보계 시스템 엔지니어 (2024.09 ~ 진행중)
++ **KakaoBank** - 시스템 엔지니어 (2024.09 ~ 진행중)
 + **OSSCA** - 오픈소스 컨트리뷰션 아카데미 (2024.07 ~ 12)
 + **Samsung Electronics DX** - S/W Algorithms 역량 강화 특강 (2024.02 ~ 03)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
