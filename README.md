@@ -12,7 +12,6 @@
 + **OSSCA** - 오픈소스 컨트리뷰션 아카데미 (2024.07 ~ 12)
 + **Samsung Electronics DX** - S/W Algorithms 역량 강화 특강 (2024.02 ~ 03)
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
-+ **Little Angel** - 유아의류 온라인 쇼핑몰 개발 및 운영 (2020.06 ~ 2021.12)
 
 ## Awards & Certificates🎖️
 + **Yorkie** - 한국IT비즈니스진흥협회장상 (2024.12)
