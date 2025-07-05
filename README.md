@@ -14,13 +14,13 @@
 + **Samsung** - Software Academy For Youth 7th (2022.01 ~ 12)
 -->
 
-## Awards & Certificates🎖️
+<!-- ## Awards & Certificates🎖️
 + **Yorkie** - 한국IT비즈니스진흥협회장상 (2024.12)
 + **HRD Korea** - 정보처리기사 (2024.06)
 + **Samsung Electronics DX** - S/W 역량 테스트 Level B (2024.03)
 + **Hyundai NGV** - Softeer 역량 테스트 HSAT lv3 (2023.08)
 + **K-Data** - SQL Developer (2023.04)
-
+-->
 
 <!-- ## Opensource Projects
 + Contributor - [yorkie-team](https://github.com/yorkie-team)
