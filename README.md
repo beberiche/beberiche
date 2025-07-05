@@ -2,10 +2,11 @@
 + 👨‍🎓 ~ 2020 사회복지학과 졸업 -->
 <!-- + 📜 2021 ~ 2022 SSAFY 7th -->
 
-# JongHyeon Kim (Bell) 
+<!-- # JongHyeon Kim (Bell) 
 <a><img src="https://img.shields.io/badge/woaol@naver.com-20C997?style=flat-square&logo=naver&logoColor=white" /></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beberiche)](https://solved.ac/beberiche/)
+-->
 
 <!-- ## Activity 
 + **KakaoBank** - 시스템 엔지니어 (2024.09 ~ 진행중)
